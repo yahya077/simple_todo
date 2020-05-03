@@ -1,6 +1,9 @@
 # simpletodo
 
 Put your daily tasks on list. A simple To-Do app
+![ss1](https://user-images.githubusercontent.com/46659611/80896566-5095e400-8cf8-11ea-92e9-57b36fb3469e.png)
+![ss2](https://user-images.githubusercontent.com/46659611/80896567-51c71100-8cf8-11ea-9bbe-7a6101960083.png)
+![ss3](https://user-images.githubusercontent.com/46659611/80896568-51c71100-8cf8-11ea-802a-da12dbc4fcaf.png)
 
 ## Getting Started
 
